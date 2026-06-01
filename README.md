@@ -100,6 +100,9 @@ Endpoint de controle que permite disparar o alerta de pânico remotamente via so
 Link da demonstração no Youtube
 > Adicionar o video
 
+## Link Wokwi
+https://wokwi.com/projects/305569599398609473
+
 ## Autores
 Artur Correia - [GitHub](https://github.com/artcorreia)<br>
 Gabriel H - [GitHub](https://github.com/gabrielhensg)<br>
